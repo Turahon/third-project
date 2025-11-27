@@ -15,9 +15,7 @@ body{
 }
 .projects{
     display: flex;
-    background-color: black;
-    width: 363px;
-    margin-left: 400px;
+    margin-left: 15%;
 }
 
 .projects div{
@@ -35,4 +33,18 @@ body{
 .aboutMe{
     text-align: center;
     color: whitesmoke;
+}
+.text1{
+    color: whitesmoke;
+    margin-left: 45%;
+}
+
+.description{
+    color: white;
+    margin-left: 10px;
+}
+
+.logos{
+    bottom: 0;
+    margin-left: 45%;
 }
